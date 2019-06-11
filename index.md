@@ -1,6 +1,6 @@
 ## Welcome to the GitHub Pages of Ezcom Community: phpBB 3.1.x extensions
 
-You can find all phpBB 3.1.x extensions translations:
+You can find all FRENCH translations for phpBB 3.1.x extensions sorted by extension names:
 
 # A to F
 https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/A-F
