@@ -4,9 +4,9 @@ You can find all FRENCH translations for phpBB 3.1.x extensions sorted by extens
 
 # A to F
 https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/A-F
-## G to M
+# G to M
 https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/G-M
-### N to Z
+# N to Z
 https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/N-Z
 
 our website: http://www.ezcom-fr.com | Mirror: http://ezcom.free.fr/?dir=phpBB/3.1.x/Extensions
