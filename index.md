@@ -9,6 +9,8 @@ You can find all FRENCH translations for phpBB 3.1.x extensions & sorted by exte
 <a href="https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/G-P">Extensions sorted from G to P</a>.
 ## Q to Z:
 <a href="https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/Q-Z">Extensions sorted from Q to Z</a>.
+## phpBB 3.1.x tools:
+<a href="https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/Outils">Other tools for phpBB 3.1.x</a>.
 
 ## Other usefull links:
 Our website: <a href="http://www.ezcom-fr.com">Communauté Ezcom</a> | Our repository mirror: <a href="http://ezcom.free.fr/?dir=phpBB/3.1.x/Extensions">EzCom Miroir</a>.
@@ -26,6 +28,8 @@ Vous trouverez toutes les traductions françaises pour les extensions dédiées 
 <a href="https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/G-P">Extensions triées de G à P</a>.
 ## Q à Z :
 <a href="https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/Q-Z">Extensions triées de Q à Z</a>.
+## Outils pour phpBB 3.1.x :
+<a href="https://github.com/Communaute-EzCom/phpbb-3.1.x-extensions/tree/master/Outils">Autres outils dédiés à phpBB 3.1.x</a>.
 
 ## Autres liens utiles :
 Notre site Web : <a href="http://www.ezcom-fr.com">Communauté Ezcom</a> | Notre dépôt de fichiers miroir : <a href="http://ezcom.free.fr/?dir=phpBB/3.1.x/Extensions">EzCom Miroir</a>.
